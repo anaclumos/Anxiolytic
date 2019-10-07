@@ -1,2 +1,2 @@
-# anxiolytic
-for informatics contests
+# 💉 vaccines
+for informatics contests and internship interviews
